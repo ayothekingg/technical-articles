@@ -1,6 +1,6 @@
 # Technical Articles by James Amoo
 
-The following are articles written by me, published across several tech blogs:
+The following are articles written by me, and published across several tech blogs:
 
 * [Maximizing Development Efficiency with Pieces Copilot: Persistent Chats, Contextual Intelligence, and Enhanced Browser Integration](https://pieces.app/blog/maximizing-development-efficiency-with-pieces-copilot)
 * [Exploring data visualization with D3.js and Cody](https://sourcegraph.com/blog/exploring-data-visualization-with-d3-cody)
@@ -21,6 +21,7 @@ The following are articles written by me, published across several tech blogs:
 * [How to Implement React Infinite Scrolling with React Query v5](https://pieces.app/blog/how-to-implement-react-infinite-scrolling-with-react-query-v5)
 * [Implementing CPU Scheduling Algorithms using Java: Part 2](https://jamesamoo.hashnode.dev/implementing-cpu-scheduling-algorithms-using-java-part-2)
 * [Implementing CPU Scheduling Algorithms using Java - Part 1](https://jamesamoo.hashnode.dev/implementing-cpu-scheduling-algorithms-using-java-part-1)
+* [Understanding this in JavaScript: A Quick Guide for Devs](https://pieces.app/blog/understanding-this-in-javascript-a-quick-guide-for-devs)
 * [Vite vs Webpack: Which Build Tool is Right for Your Project?](https://pieces.app/blog/vite-vs-webpack-which-build-tool-is-right-for-your-project)
 * [Comparing the Top 12 Best Python Web Frameworks for Developers](https://pieces.app/blog/comparing-the-top-12-best-python-web-frameworks-for-developers)
 * [Sublime Text vs VS Code: Which Code Editor Best Suits Your Project?](https://pieces.app/blog/sublime-text-vs-vs-code-which-code-editor-best-suits-your-project)
