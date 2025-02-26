@@ -1,7 +1,12 @@
 # Technical Articles by James Amoo
 
 The following are articles written by me, and published across several tech blogs:
-
+* [Database vs spreadsheet: when to use which and why](https://www.quadratichq.com/blog/database-vs-spreadsheet-when-to-use-which-and-why)
+* [Stale data: how to identify, prevent, and overcome data decay](https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay)
+* [Best database query tools: from SQL to AI-powered interfaces](https://www.quadratichq.com/blog/best-database-query-tools-from-sql-to-ai-powered-interfaces)
+* [Identifying the best alternative to Power BI and Tableau](https://www.quadratichq.com/blog/identifying-the-best-alternative-to-power-bi-and-tableau)
+* [Excel vs Google Sheets: Is there a better AI-powered alternative?](https://www.quadratichq.com/blog/excel-vs-google-sheets-is-there-a-better-ai-powered-alternative)
+* [Choosing the best IDE for Data Analysis: Beyond the editor](https://www.quadratichq.com/blog/choosing-the-best-ide-for-data-analysis-beyond-the-editor)
 * [Maximizing Development Efficiency with Pieces Copilot: Persistent Chats, Contextual Intelligence, and Enhanced Browser Integration](https://pieces.app/blog/maximizing-development-efficiency-with-pieces-copilot)
 * [Exploring data visualization with D3.js and Cody](https://sourcegraph.com/blog/exploring-data-visualization-with-d3-cody)
 * [How to write unit tests for Svelte web apps](https://sourcegraph.com/blog/how-to-write-unit-tests-for-svelte-web-apps)
