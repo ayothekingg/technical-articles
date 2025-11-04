@@ -1,6 +1,19 @@
 # Technical Articles by James Amoo
 
-The following are articles written by me, and published across several tech blogs:
+The following are articles written by me and published across several tech blogs:
+* [Charting with SQL: From query to insight without BI overhead](https://www.quadratichq.com/blog/charting-with-sql-from-query-to-insight-without-bi-overhead)
+* [AI tools for product managers: what to use (and why)](https://www.quadratichq.com/blog/ai-tools-for-product-managers-what-to-use-and-why)
+* [Learn Python with zero knowledge: Your 101 guide](https://www.quadratichq.com/blog/learn-python-with-zero-knowledge-your-101-guide)
+* [Python exploratory data analysis: A hands-on tutorial](https://www.quadratichq.com/blog/python-exploratory-data-analysis-a-hands-on-tutorial)
+* [SQL for data analysis: From basic queries to advanced insights](https://www.quadratichq.com/blog/sql-for-data-analysis-from-basic-queries-to-advanced-insights)
+* [Top 10 AI education tools to use in 2025](https://www.quadratichq.com/blog/top-10-ai-education-tools-to-use-in-2025)
+* [Top 5 best AI tools for data analysis](https://www.quadratichq.com/blog/top-5-best-ai-tools-for-data-analysis)
+* [AI data modeling: Automate & accelerate predictive analytics](https://www.quadratichq.com/blog/ai-data-modeling-automate-and-accelerate-predictive-analytics)
+* [Top AI tools for finance: Boost your accuracy and efficiency](https://www.quadratichq.com/blog/top-ai-tools-for-finance-boost-your-accuracy-and-efficiency)
+* [Best data visualization software: 10 tools to try in 2025](https://www.quadratichq.com/blog/best-data-visualization-software-10-tools-to-try)
+* [The best coding spreadsheets for faster, better analysis](https://www.quadratichq.com/blog/the-best-coding-spreadsheets-for-faster-better-analysis)
+* [How to analyse CSV data quickly: From simple summaries to interactive data visualizations](https://www.quadratichq.com/blog/how-to-analyse-csv-data-quickly-from-simple-summaries-to-interactive-data-visualizations)
+* [5 best product analytics software solutions for product managers](https://www.quadratichq.com/blog/5-best-product-analytics-software-solutions-for-product-managers)
 * [Database vs spreadsheet: when to use which and why](https://www.quadratichq.com/blog/database-vs-spreadsheet-when-to-use-which-and-why)
 * [Stale data: how to identify, prevent, and overcome data decay](https://www.quadratichq.com/blog/stale-data-how-to-identify-prevent-and-overcome-data-decay)
 * [Best database query tools: from SQL to AI-powered interfaces](https://www.quadratichq.com/blog/best-database-query-tools-from-sql-to-ai-powered-interfaces)
